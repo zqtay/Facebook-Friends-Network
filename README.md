@@ -1,4 +1,4 @@
-# Facebook-friends-network
+# Facebook-Friends-Network
 This script automates the scraping of your Facebook friend list and visualises your social network using Selenium and Networkx.
 
 ## Known issues
