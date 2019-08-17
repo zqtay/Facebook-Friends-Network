@@ -8,5 +8,5 @@ As this script repeatedly requests for your friends' profile pages, Facebook wil
 > It looks like you were misusing this feature by going too fast. You’ve been blocked from using it.  
 
 ## To-do
-* Avoid being block by Facebook.
+* Avoid being blocked by Facebook.
 * Analyse social network.
